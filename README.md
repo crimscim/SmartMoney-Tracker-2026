@@ -2,22 +2,17 @@
 
 **Track Smart Money & Whale Wallets in Real Time**
 
-See exactly what the biggest players are doing before everyone else.
+See what the biggest players are doing before the crowd.
 
-## Why this makes serious money
-- Retail traders love following smart money
-- High perceived value
-- Can charge premium prices
-
-## Monetization
-- Free: Basic whale tracking
-- Pro: $39/month - Real-time alerts + custom wallets + historical data
-- Alpha tier: $99/month - Private whale groups + early signals
+## Passive Income Model
+- Pro: $39/month
+- Alpha: $99/month (private signals)
+- Very high perceived value = high willingness to pay
 
 ## Features
-- Track 1000+ smart wallets across chains
-- AI-powered move analysis
-- Telegram/Discord alerts
-- Historical performance of whales
+- Track 1000+ smart wallets
+- Real-time alerts
+- Historical performance
+- AI analysis
 
-Created by crimscim | 50/50 split | Ultra Pro 2026
+**50/50 with crimscim**

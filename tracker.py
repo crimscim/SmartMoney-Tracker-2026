@@ -1,1 +1,1 @@
-print('Smart Money Tracker 2026 - Follow the money')
+print('Smart Money Tracker 2026 - Premium passive income')
